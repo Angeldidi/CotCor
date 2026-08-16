@@ -119,8 +119,6 @@ Le menu est redimensionnable et son contenu s’adapte automatiquement à la lar
 
 Le système de profils permet de sauvegarder plusieurs configurations, de les charger rapidement ou de revenir aux paramètres par défaut.
 
-Tous les textes sont centralisés dans `Localization.fr.lua`. Ils peuvent être modifiés sans toucher au code principal et les personnalisations sont préservées lors des mises à jour.
-
 ---
 
 ## Performances
