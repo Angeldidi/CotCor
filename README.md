@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cotcor-banner.png" alt="Bannière CotCor" width="100%">
+  <img src="assets/cotcor-banner.webp" alt="Bannière CotCor" width="100%">
 </p>
 
 <h1 align="center">CotCor</h1>
@@ -151,7 +151,7 @@ CotCor est optimisé pour conserver un impact minimal sur les performances, y co
 ---
 
 <p align="center">
-  <img src="assets/cotcor-logo.png" alt="Logo CotCor" width="180">
+  <img src="assets/cotcor-logo.webp" alt="Logo CotCor" width="180">
 </p>
 
 <p align="center">
