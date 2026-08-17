@@ -185,7 +185,7 @@ CotCor est optimisé pour conserver un impact minimal sur les performances, y co
 </p>
 
 <p align="center">
-  Développé par <strong>Anrel / CotteCotte</strong>
+  Développé par <strong>Anrel / CotteCotte et Zcode</strong>
 </p>
 
 <p align="center">
