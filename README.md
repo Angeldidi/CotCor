@@ -52,6 +52,12 @@ Des messages privés personnalisables facilitent la coordination lorsqu’une Fo
 
 Le suivi reste actif lorsque la cible est hors de portée ou dans une autre instance, puis se réinitialise automatiquement lorsque le joueur quitte son groupe.
 
+<p align="center">
+  <img src="assets/screenshots/focus-magic-targets.webp" alt="Liste intelligente des cibles de Focalisation de la magie" height="526">
+  &nbsp;&nbsp;
+  <img src="assets/screenshots/focus-magic-tracking.webp" alt="Suivi des Focalisations de la magie du raid" height="526">
+</p>
+
 ---
 
 ## Chaleur continue et Pyro
@@ -68,6 +74,12 @@ Trois modes permettent d’afficher les flammes, les icônes ou les deux simulta
 
 Le proc de Pyro et le critique en réserve fonctionnent indépendamment. La réserve peut également être conservée après la fin du combat.
 
+<p align="center">
+  <img src="assets/screenshots/hot-streak-flames.webp" alt="Flammes de Chaleur continue" width="752">
+  <br><br>
+  <img src="assets/screenshots/hot-streak-icons.webp" alt="Icônes de Chaleur continue et du critique en réserve" width="211">
+</p>
+
 ---
 
 ## Bombe vivante
@@ -77,6 +89,10 @@ Le module **Bombe vivante** suit simultanément toutes les Bombes actives sur le
 Chaque cible dispose de sa propre barre avec son nom complet et le temps restant avant l’explosion. Jusqu’à **12 Bombes vivantes** peuvent être affichées en même temps.
 
 La largeur, la hauteur, l’espacement et le nombre maximal de barres sont entièrement personnalisables.
+
+<p align="center">
+  <img src="assets/screenshots/living-bomb-tracker.webp" alt="Suivi multicible de Bombe vivante" width="238">
+</p>
 
 ---
 
@@ -90,6 +106,10 @@ Les temps de recharge sont affichés directement sur les icônes. CotCor peut au
 
 Les éléments du module peuvent être positionnés librement dans l’interface.
 
+<p align="center">
+  <img src="assets/screenshots/portals-teleports.webp" alt="Interface des portails et téléportations" width="522">
+</p>
+
 ---
 
 ## Image miroir
@@ -100,6 +120,10 @@ Le module **Image miroir** permet de distinguer immédiatement les deux états d
 - un affichage rouge et grisé pendant les 150 secondes de recharge.
 
 Un décompte numérique indique précisément le temps restant dans chaque état.
+
+<p align="center">
+  <img src="assets/screenshots/mirror-image.webp" alt="Interface du sort Image miroir" width="377">
+</p>
 
 ---
 
@@ -118,6 +142,10 @@ CotCor possède une interface centralisée organisée en sept catégories :
 Le menu est redimensionnable et son contenu s’adapte automatiquement à la largeur disponible. Les différents modules peuvent être déplacés et configurés séparément.
 
 Le système de profils permet de sauvegarder plusieurs configurations, de les charger rapidement ou de revenir aux paramètres par défaut.
+
+<p align="center">
+  <img src="assets/screenshots/settings-interface.webp" alt="Interface de configuration de CotCor" width="100%">
+</p>
 
 ---
 
@@ -158,4 +186,8 @@ CotCor est optimisé pour conserver un impact minimal sur les performances, y co
 
 <p align="center">
   Développé par <strong>Anrel / CotteCotte</strong>
+</p>
+
+<p align="center">
+  <img src="assets/cottecotte-wave.webp" alt="CotteCotte vous salue" width="650">
 </p>
